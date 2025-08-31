@@ -1,2 +1,2 @@
-# dashed-html.github.io
+# https://dashed-html.github.io
 Redirect to HTML with dashes blog
